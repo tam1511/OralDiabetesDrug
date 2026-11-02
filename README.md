@@ -1,4 +1,4 @@
-# Data Analysis Project _  Oral Diabete Drug Category Overview
+# Oral Diabete Drug Category Overview
 * This is the **team project** that I was done at my university by using R.
 
 * This paper is the result of data analysis project about the Oral Diabete drug category data. There are 4 main
